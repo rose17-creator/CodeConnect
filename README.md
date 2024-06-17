@@ -8,7 +8,6 @@ It is a social media platform targeted specifically for programmers, providing a
 - [🔋  Features](#-features)
 - [🤸 Quick Start](#-quick-start)
 - [🕸️ Snippets](#️-snippets)
-- [🔗 Links](#-links)
 
 ## 🤖 Introduction
 
