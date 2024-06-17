@@ -37,7 +37,6 @@ It is a social media platform specifically targeted to programmers. They can pos
 - **Profile Optimization:** Customize your profile.
 - **Friend Discovery:** Find friends with similar interests.
 - **Suggested Friends:** Discover new connections.
-- **Premium Features:** Unlock additional features with premium plans.
 
 ## 🤸 Quick Start
 
