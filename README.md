@@ -1,6 +1,6 @@
-# Codegem
+# CodeConnect
 
-Codegem is a social media platform targeted specifically for programmers, providing a dedicated space to share code snippets, maintain code streaks, collaborate on projects, and connect with like-minded individuals. Whether you're an expert or just starting, Codegem offers comprehensive features to enhance your coding experience.
+It is a social media platform targeted specifically for programmers, providing a dedicated space to share code snippets, maintain code streaks, collaborate on projects, and connect with like-minded individuals. Whether you're an expert or just starting, it offers comprehensive features to enhance your coding experience.
 
 ## Table of Contents
 - [🤖 Introduction](#-introduction)
@@ -12,7 +12,7 @@ Codegem is a social media platform targeted specifically for programmers, provid
 
 ## 🤖 Introduction
 
-Codegem is a social media platform specifically targeted to programmers. They can post their code snippets, maintain code streaks, collaborate on projects, and connect with friends and groups.
+It is a social media platform specifically targeted to programmers. They can post their code snippets, maintain code streaks, collaborate on projects, and connect with friends and groups.
 
 ## ⚙️ Tech Stack
 
@@ -49,10 +49,6 @@ Codegem is a social media platform specifically targeted to programmers. They ca
 
 ## 🕸️ Snippets
 
-Codegem allows you to share and discover code snippets. Whether it's a clever algorithm or a creative solution, showcase your coding prowess with the community.
-
-## 🔗 Links
-
-- [Codegem Website](https://codegem.netlify.app)
+It allows you to share and discover code snippets. Whether it's a clever algorithm or a creative solution, showcase your coding prowess with the community.
 
 
