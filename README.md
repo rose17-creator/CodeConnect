@@ -1,6 +1,6 @@
-# CodeReview
+# Codegem
 
-Codereview is a social media platform targeted specifically for programmers, providing a dedicated space to share code snippets, maintain code streaks, collaborate on projects, and connect with like-minded individuals. Whether you're an expert or just starting, Codegem offers comprehensive features to enhance your coding experience.
+Codegem is a social media platform targeted specifically for programmers, providing a dedicated space to share code snippets, maintain code streaks, collaborate on projects, and connect with like-minded individuals. Whether you're an expert or just starting, Codegem offers comprehensive features to enhance your coding experience.
 
 ## Table of Contents
 - [🤖 Introduction](#-introduction)
@@ -9,7 +9,6 @@ Codereview is a social media platform targeted specifically for programmers, pro
 - [🤸 Quick Start](#-quick-start)
 - [🕸️ Snippets](#️-snippets)
 - [🔗 Links](#-links)
-- [🚀 More](#-more)
 
 ## 🤖 Introduction
 
@@ -54,8 +53,6 @@ Codegem allows you to share and discover code snippets. Whether it's a clever al
 
 ## 🔗 Links
 
-- [Codereview Website](https://codegem.netlify.app)
+- [Codegem Website](https://codegem.netlify.app)
 
-## 🚀 More
 
-For more amazing projects and development tools, check out [DevX Studio](https://devx.studio). DevX Studio is dedicated to building innovative projects to empower developers worldwide.
