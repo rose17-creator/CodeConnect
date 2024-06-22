@@ -1,17 +1,14 @@
 # CodeConnect
 
-It is a social media platform targeted specifically for programmers, providing a dedicated space to share code snippets, maintain code streaks, collaborate on projects, and connect with like-minded individuals. Whether you're an expert or just starting, it offers comprehensive features to enhance your coding experience.
-
 ## Table of Contents
 - [🤖 Introduction](#-introduction)
 - [⚙️ Tech Stack](#️-tech-stack)
 - [🔋  Features](#-features)
 - [🤸 Quick Start](#-quick-start)
-- [🕸️ Snippets](#️-snippets)
 
 ## 🤖 Introduction
 
-It is a social media platform specifically targeted to programmers. They can post their code snippets, maintain code streaks, collaborate on projects, and connect with friends and groups.
+You can showcase and explore code snippets with this platform. Share your innovative algorithms or unique solutions and demonstrate your coding skills to the community.
 
 ## ⚙️ Tech Stack
 
@@ -45,8 +42,5 @@ It is a social media platform specifically targeted to programmers. They can pos
 4. Navigate to `/server` and run `npm install`.
 5. Start the Node server with `node app.js`.
 
-## 🕸️ Snippets
-
-It allows you to share and discover code snippets. Whether it's a clever algorithm or a creative solution, showcase your coding prowess with the community.
 
 
